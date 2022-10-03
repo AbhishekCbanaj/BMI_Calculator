@@ -1,0 +1,10 @@
+{
+    "name": "BMI_Calculator",
+    "version": "1.0.0",
+    "description": "Calculates the BMI of person",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "BMI_Calculator"
+    }
+}
